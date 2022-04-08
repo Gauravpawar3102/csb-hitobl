@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://gauravpawar3102.github.io/csb-hitobl/static/js/main.aa685780.chunk.js",
+    "main.js.map": "https://gauravpawar3102.github.io/csb-hitobl/static/js/main.aa685780.chunk.js.map",
+    "runtime-main.js": "https://gauravpawar3102.github.io/csb-hitobl/static/js/runtime-main.52974f85.js",
+    "runtime-main.js.map": "https://gauravpawar3102.github.io/csb-hitobl/static/js/runtime-main.52974f85.js.map",
+    "static/js/2.cb03cce4.chunk.js": "https://gauravpawar3102.github.io/csb-hitobl/static/js/2.cb03cce4.chunk.js",
+    "static/js/2.cb03cce4.chunk.js.map": "https://gauravpawar3102.github.io/csb-hitobl/static/js/2.cb03cce4.chunk.js.map",
+    "index.html": "https://gauravpawar3102.github.io/csb-hitobl/index.html",
+    "static/js/2.cb03cce4.chunk.js.LICENSE.txt": "https://gauravpawar3102.github.io/csb-hitobl/static/js/2.cb03cce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52974f85.js",
+    "static/js/2.cb03cce4.chunk.js",
+    "static/js/main.aa685780.chunk.js"
+  ]
+}
